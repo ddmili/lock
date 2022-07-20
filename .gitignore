@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+*.log
+*.DS_Store*
+dist/
+*conf-local.yaml
+uploads/
+logs/
+vendor/
+.history/
+tmp/*
+__debug_bin
